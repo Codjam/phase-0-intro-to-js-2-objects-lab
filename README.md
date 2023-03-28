@@ -1,4 +1,4 @@
-# Objects Lab
+# Objects Lab 1
 
 ## Learning Goals
 
